@@ -1,7 +1,6 @@
 package com.springlearning.springmongo.services;
 
 import com.springlearning.springmongo.domain.Post;
-import com.springlearning.springmongo.dto.PostDTO;
 import com.springlearning.springmongo.repositories.PostRepository;
 import com.springlearning.springmongo.services.exceptions.ObjectNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
